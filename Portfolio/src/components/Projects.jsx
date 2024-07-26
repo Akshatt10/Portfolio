@@ -18,8 +18,8 @@ const Projects = () => {
                 className='w-full lg:w-1/4'>
                 <img 
                 src={project.image}
-                width={200}
-                height={200}
+                width={250}
+                height={250}
                 alt={project.title}
                 className='mb-6 rounded' />
                 </motion.div>
