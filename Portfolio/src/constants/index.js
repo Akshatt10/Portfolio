@@ -3,6 +3,9 @@ import project2 from "../assets/projects/project-2.png";
 import project3 from "../assets/projects/project-3.png";
 import project4 from "../assets/projects/project-4.png";
 import project5 from "../assets/projects/project-5.png";
+import CSA from "../assets/Certifications/CSA.png";
+import CAD from "../assets/Certifications/CAD.png";
+
 
 export const HERO_CONTENT = `Aspiring software developer with a keen interest in learning and growing in the field of web development and data analytics. Currently a 4th year B.Tech student, with experience in building basic MERN stack projects. Familiar with Python and SQL for data analysis. Proven ability to integrate AI features and deploy web applications. Eager to gain hands-on experience and enhance my skills through an internship in a dynamic and supportive environment.`;
 
@@ -18,6 +21,17 @@ export const EXPERIENCES = [
   },
 
 ];
+
+export const CERTIFICATIONS = [
+  {
+    Name: "ServiceNow Certified System Administrator",
+    image: CSA
+  },
+  {
+    Name: "ServiceNow Certified Application Developer",
+    image: CAD
+  },
+]
 
 export const PROJECTS = [
   {
