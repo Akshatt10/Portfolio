@@ -41,7 +41,7 @@ const Hero = () => {
                             {HERO_CONTENT}
                         </motion.p>
                         <motion.a
-                            href="https://drive.google.com/file/d/1nT6nY51h7oEdop-_Ja8EWlkfyluNCDN4/view?usp=sharing"  
+                            href="https://docs.google.com/document/d/10XCiGpP1HZs2vsLsoE6eijNP5WNW8IU2TgFdemlAp5s/edit?usp=sharing"  
                             target="_blank"
                             rel="noopener noreferrer"
                             variants={container(1)}
