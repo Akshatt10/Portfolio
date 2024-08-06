@@ -3,6 +3,7 @@ import project2 from "../assets/projects/project-2.png";
 import project3 from "../assets/projects/project-3.png";
 import project4 from "../assets/projects/project-4.png";
 import project5 from "../assets/projects/project-5.png";
+import project6 from "../assets/projects/Project-6.png";
 import CSA from "../assets/Certifications/CSA.png";
 import CAD from "../assets/Certifications/CAD.png";
 
@@ -54,6 +55,13 @@ export const PROJECTS = [
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["HTML", "TailWindCSS", "React", "JavaScript"],
+  },
+  {
+    title: "YouTube Data Analytics Web app",
+    image: project6,
+    description:
+      "Working Web app for analysis of any YouTube channel using different functions and YouTube API.",
+    technologies: ["Python", "Data Analysis", "StreamLit", "Data Science"],
   },
   {
     title: "PowerBi Spotify Dashboard",
