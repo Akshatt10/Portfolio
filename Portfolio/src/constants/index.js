@@ -6,6 +6,8 @@ import project5 from "../assets/projects/project-5.png";
 import project6 from "../assets/projects/Project-6.png";
 import CSA from "../assets/Certifications/CSA.png";
 import CAD from "../assets/Certifications/CAD.png";
+import project7 from "../assets/projects/Project-7.png";
+import project8 from "../assets/projects/Project-8.png";
 
 
 export const HERO_CONTENT = `Aspiring software developer with a keen interest in learning and growing in the field of web development and data analytics. Currently a 4th year B.Tech student, with experience in building basic MERN stack projects. Familiar with Python and SQL for data analysis. Proven ability to integrate AI features and deploy web applications. Eager to gain hands-on experience and enhance my skills through an internship in a dynamic and supportive environment.`;
@@ -43,11 +45,28 @@ export const PROJECTS = [
     technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
   },
   {
+    title: "Real-time Chat Application",
+    image: project7,
+    description:
+      "This is a Real-Time chat app based on firebase and reactJs. You can chat with your friends by logging into it",
+    technologies: ["HTML", "CSS", "Javascript", "ReactJs", "Firebase"],
+    link: "https://my-chat-app-topaz.vercel.app/",
+  },
+  {
+    title: "To-Do task app",
+    image: project8,
+    description:
+      "This is a To-Do app making you write all your days To-Do and help you cut down on what is done",
+    technologies: ["HTML", "CSS", "Javascript", "ReactJs"],
+    link: "https://to-do-app-git-main-akshat-tyagis-projects.vercel.app/",
+  },
+  {
     title: "Gemini Clone",
     image: project2,
     description:
       "An application showing my frontend and API skills where I cloned Google GEMINI with ReactJs into a responsive website and deployed on Netlify",
     technologies: ["HTML", "CSS", "Javascript", "React"],
+    link: "https://mygeminiapp.netlify.app/",
   },
   {
     title: "Portfolio Website",
@@ -62,6 +81,7 @@ export const PROJECTS = [
     description:
       "Working Web app for analysis of any YouTube channel using different functions and YouTube API.",
     technologies: ["Python", "Data Analysis", "StreamLit", "Data Science"],
+    link: "https://akshatt10-youtube-data-analysis-app-qagmkb.streamlit.app/",
   },
   {
     title: "PowerBi Spotify Dashboard",
