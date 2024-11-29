@@ -38,11 +38,12 @@ export const CERTIFICATIONS = [
 
 export const PROJECTS = [
   {
-    title: "Restaurant Reservation Website",
+    title: "GitGram- github like app",
     image: project1,
     description:
-      "A fully functional MERN website with features like Menu listing, responsiveness, reservation form connected to Mongodb .",
-    technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
+      "A fully functional MERN website with features of liking github profiles, watch profile visits of github, explore page .",
+    technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB", "Passport.js"],
+    link: "https://mern-git.onrender.com",
   },
   {
     title: "Real-time Chat Application",
