@@ -10,9 +10,13 @@ import project7 from "../assets/projects/Project-7.png";
 import project8 from "../assets/projects/Project-8.png";
 
 
-export const HERO_CONTENT = `Aspiring software developer with a keen interest in learning and growing in the field of web development and data analytics. Currently a 4th year B.Tech student, with experience in building basic MERN stack projects. Familiar with Python and SQL for data analysis. Proven ability to integrate AI features and deploy web applications. Eager to gain hands-on experience and enhance my skills through an internship in a dynamic and supportive environment.`;
+export const HERO_CONTENT = `Aspiring software developer with a strong foundation in backend development, including hands-on experience in building scalable systems, APIs, and web applications. Currently a 4th-year B.Tech student with proficiency in the MERN stack, data analytics using Python and SQL, and a keen interest in Web3 development. Experienced in integrating AI features and deploying production-ready applications, as well as working with cloud services like Azure and Cosmos DB. Passionate about continuous learning, and eager to contribute to impactful projects through an internship in a dynamic, collaborative environment.`;
 
-export const ABOUT_TEXT = `I am a dedicated and eager fresher with a strong passion for web development and data analysis. As a 4th-year BTech student, I have built a React portfolio website to showcase my skills and projects. My academic journey has equipped me with hands-on experience in technologies such as React, Node.js, and MongoDB. I am keen to learn new things and continuously strive to expand my knowledge. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of my studies, I stay active by exploring new technologies and contributing to various projects. I am now looking for an internship where I can further develop my skills and contribute to impactful projects.`;
+export const ABOUT_TEXT = `I am a passionate and dedicated Software Developer with expertise in full-stack development and backend architecture. As a 4th-year BTech student, I have worked on diverse projects, building responsive portfolio websites, scalable backend systems, and API-driven applications. My tech stack includes React.js, Node.js, Express.js, TypeScript, Koa.js, MongoDB, SQL, and Azure Cloud Services, providing me with a robust foundation in both frontend and backend development.
+
+My experience includes designing and implementing APIs, developing microservices-based architectures, and integrating cloud solutions. I also have exposure to data analysis and machine learning, which has enhanced my problem-solving and analytical capabilities. I actively explore new technologies to stay updated and continuously improve my development skills.
+
+I thrive in collaborative environments and enjoy solving challenging problems to deliver high-quality, impactful solutions. I am currently seeking opportunities to further apply my expertise, learn new technologies, and contribute to meaningful projects.`;
 
 export const EXPERIENCES = [
   {
