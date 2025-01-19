@@ -19,7 +19,7 @@ const Experience = () => {
                         whileInView={{opacity:1, x:0}}
                         initial={{opacity:0, x:-100}}
                         transition={{duration:1}}
-                        className="w-full lg:w-14">
+                        className="mb-2 lg:mb-0 w-full lg:w-auto lg:mr-6 text-neutral-400">
                             <p className='mb-2 text-sm text-neutral-400'>{experience.year}</p>
                         </motion.div>
                         <motion.div

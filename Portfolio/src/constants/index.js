@@ -16,6 +16,13 @@ export const ABOUT_TEXT = `I am a dedicated and eager fresher with a strong pass
 
 export const EXPERIENCES = [
   {
+    year: "Dec 2024 - Present",
+    role: "Software Developer Intern",
+    company: "AFI DigitalServices LLP",
+    description: `Working on core backend development and API integration for the company's projects and learning new technologies including microservices architecture.`,
+    technologies: ["Node.js", "Koa.js", "Typescript", "C#/.NETASP", "Azure", "Microservices"],
+  },
+  {
     year: "Sept 2023 - Oct 2023",
     role: "Data Science Intern",
     company: "Bharat Intern",
