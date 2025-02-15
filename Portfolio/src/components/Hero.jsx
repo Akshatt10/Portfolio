@@ -1,5 +1,5 @@
 import { HERO_CONTENT } from "../constants/index"
-import Profile from '../assets/Profile.png'
+import Profile from '../assets/95146187.jpeg'
 import { motion } from "framer-motion"
 
 const container = (delay) => ({
@@ -41,7 +41,7 @@ const Hero = () => {
                             {HERO_CONTENT}
                         </motion.p>
                         <motion.a
-                            href="https://drive.google.com/file/d/1EiBwhrg8wf2MzB6ohjbObT-rV-yethxV/view?usp=drive_link"  
+                            href="https://drive.google.com/file/d/1jhN0fsxP0pvjeFpbFfTyEXt1ovkEF2FR/view?usp=drive_link"  
                             target="_blank"
                             rel="noopener noreferrer"
                             variants={container(1)}
